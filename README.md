@@ -1,16 +1,6 @@
-# awesome-beaker
+# user-submitted-drives
 
-WIP - nothing to see here
-
-```
-npm install awesome-beaker
-```
-
-## Usage
-
-``` js
-const awesome-beaker = require('awesome-beaker')
-```
+Experimental link aggrigator for Beaker
 
 ## License
 
