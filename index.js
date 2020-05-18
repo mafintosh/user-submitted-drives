@@ -31,7 +31,7 @@ const html = `<html><body>
     <input type="submit" id="submit" value="Submit link">
   </form>
   <details>
-    <summary>Help moderate USD by upvoting interesting links here (<span id="new-count">0</span> links)</summary>
+    <summary>Click here to help moderate USD by upvoting interesting links (<span id="new-count">0</span> links)</summary>
     <ul id="newest">
     </ul>
   </details>
@@ -41,6 +41,10 @@ const html = `<html><body>
     }
     ul {
       margin: 20px 0;
+    }
+
+    summary {
+      cursor: pointer;
     }
   </style>
   <script>
