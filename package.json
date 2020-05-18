@@ -1,0 +1,22 @@
+{
+  "name": "awesome-beaker",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "index.js",
+  "dependencies": {
+    "corestore-swarm-networking": "^5.4.2",
+    "hyperdrive": "^10.11.0",
+    "peersockets": "^0.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/awesome-beaker.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/awesome-beaker/issues"
+  },
+  "homepage": "https://github.com/mafintosh/awesome-beaker"
+}
