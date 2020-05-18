@@ -1,7 +1,7 @@
 {
-  "name": "awesome-beaker",
+  "name": "user-submitted-drives",
   "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "An experiment to build a news aggrigator on Beaker",
   "main": "index.js",
   "dependencies": {
     "corestore-swarm-networking": "^5.4.2",
@@ -11,12 +11,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/awesome-beaker.git"
+    "url": "https://github.com/mafintosh/user-submitted-drives.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/awesome-beaker/issues"
+    "url": "https://github.com/mafintosh/user-submitted-drives/issues"
   },
-  "homepage": "https://github.com/mafintosh/awesome-beaker"
+  "homepage": "https://github.com/mafintosh/user-submitted-drives"
 }
