@@ -21,7 +21,7 @@ drive.readFile('links.json', 'utf-8', function (err, str) {
   }
 })
 
-const html = `<html><body>
+const html = `<html><head><meta charset="utf-8"><title>User submitted drives (USD)</title></head><body>
   <h1>Welcome to the user submitted drives (USD) peer service</h1>
   <ul id="frontpage">
   </ul>
